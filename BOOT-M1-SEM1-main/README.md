@@ -51,3 +51,5 @@ En ningún momento se demerita el desarrollo nativo, sino que se debe de tomar e
 - Framework: Muchos lo pueden definir de la siguiente de la siguiente manera, es un esquema o marco de trabajo que ofrece una estructura base para elaborar un proyecto con objetivos específicos, una especie de plantilla que sirve como punto de partida para la organización y desarrollo de software.
  Hay varias clasificaciones de estos lenguajes como alto nivel y bajo nivel, compilados e interpretados, pero ondearemos más adelante sobre este y otros términos.
 > #### **Continuemos...**
+
+[![VideoAppNativas](https://img.youtube.com/vi/jE3rqNWTWDs/0.jpg)]([https://www.youtube.com/watch?v=3RFAX3CbSGA)](https://www.youtube.com/watch?v=jE3rqNWTWDs)
