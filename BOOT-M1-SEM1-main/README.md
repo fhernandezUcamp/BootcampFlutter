@@ -19,3 +19,20 @@
 - [La configuración del entorno de desarrollo en MacOS](https://github.com/BootcampFlutter/BOOT-M1-SEM1#im%C3%A1genes-svg)
 - [El primer programa realizado en Flutter (Hola mundo desde Flutter!)](https://github.com/BootcampFlutter/BOOT-M1-SEM1#im%C3%A1genes-svg)
 - [La anatomía de una aplicación en Flutter!)](https://github.com/BootcampFlutter/BOOT-M1-SEM1#im%C3%A1genes-svg)
+
+# El desarrollo de aplicaciones nativas (Móviles,Web, Escritorio)
+
+El desarrollo de las aplicaciones nativas hace alusión a que emplea el lenguaje nativo de la plataforma para la construcción de la misma, por ejemplo, el desarrollo de aplicaciones en el sistema operativo en Android que serian en los lenguajes tales como Java, Kotlin, en el caso del sistema operativo de Apple -iOS serian en los siguientes lenguajes y el último framework  tales como Objective-C, Swift y SwiftUI y un último ejemplo sería el desarrollo de aplicaciones en Windows que puede ser con el lenguaje de C#, Visual Basic Net esto por decir algunos de los principales lenguajes. 
+
+Ahora, considerando varias ventajas al utilizar el desarrollo de aplicaciones nativas, se enumeran las siguientes.
+Se trabaja directamente con las funciones y el SDK (Software Development Kit) oficial del sistema operativo, lo cual se puede utilizar toda función sin límites.
+Se puede acceder a los sensores y hardware del dispositivo.
+La experiencia de diseño y desarrollo al 100% en rendimiento de cada sistema ofrece.
+
+Aunado a lo anterior, también no encontramos con desventajas las cuales varios autores en libros y expertos en la material nos relatan.
+Se ocupa un equipo multidisciplinario que tenga el conocimiento de varios lenguajes de programación para cada plataforma o sistema operativo.
+El tema de dar manteamiento a cada desarrollo que se vaya haciendo y tener la gente adecuada con el nivel de expertís para llevarlo a cabo.
+
+En ningún momento se demeritá el desarrollo nativo, si no que se debe de tomar en cuenta para la toma de decisiones para la creacion de una App o un sistema.
+
+![AppNativas](imagenes/desarrollo-nativo-de-apps.png)
