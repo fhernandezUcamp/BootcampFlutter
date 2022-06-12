@@ -56,6 +56,10 @@ En ningún momento se demerita el desarrollo nativo, sino que se debe de tomar e
 
 A continuación de deja un video como realizar una aplicación de en iOS el sistema operativo de Apple utilizando Swift y por último se desarrolla otra aplicación para Android, esto para poner en contexto como se realizaría con tecnología nativa, posterior a ello en próximas lecciones de la presente sesión se observara como se lleva a cabo en Flutter.
 
-[![VideoAppNativas](https://img.youtube.com/vi/jE3rqNWTWDs/0.jpg)](https://www.youtube.com/watch?v=jE3rqNWTWDs)
+<p align="center">
+ 
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/jE3rqNWTWDs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</p>
 
 
