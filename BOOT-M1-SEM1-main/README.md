@@ -39,5 +39,5 @@ Aunado a lo anterior, también no encontramos con desventajas las cuales varios 
 En ningún momento se demerita el desarrollo nativo, sino que se debe de tomar en cuenta para la toma de decisiones para la creación de una App o un sistema.
 
 
-<img align="center" src="https://github.com/fhernandezUcamp/BootcampFlutter/blob/main/BOOT-M1-SEM1-main/imagenes/desarrollo-nativo-de-apps.png?raw=true" />
+<img style="margin: 0px auto;" src="https://github.com/fhernandezUcamp/BootcampFlutter/blob/main/BOOT-M1-SEM1-main/imagenes/desarrollo-nativo-de-apps.png?raw=true" />
 
