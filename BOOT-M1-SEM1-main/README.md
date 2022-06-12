@@ -48,8 +48,8 @@ En ningún momento se demerita el desarrollo nativo, sino que se debe de tomar e
 
 > #### Puede ser que tengas varias preguntas en este primer tema, se habla de varias tecnologías y tecnicismos como lenguajes de programación, en este apartado te va a ayudar a entender todos estos términos.
 
-Lenguaje de programación: Muchos lo pueden definir de la siguiente de la siguiente manera, es una forma de comunicarnos con una computadora, tablet o celular e indicarle qué queremos hacer.
+> #### - Lenguaje de programación: Muchos lo pueden definir de la siguiente de la siguiente manera, es una forma de comunicarnos con una computadora, tablet o celular e indicarle qué queremos hacer.
 
-Hay varias clasificaciones de estos lenguajes como alto nivel y bajo nivel, compilados e interpretados, pero ondearemos más adelante sobre este y otros términos.
+> #### Hay varias clasificaciones de estos lenguajes como alto nivel y bajo nivel, compilados e interpretados, pero ondearemos más adelante sobre este y otros términos.
 
 > #### **Continuemos...**
