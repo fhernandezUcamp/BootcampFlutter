@@ -59,6 +59,7 @@ A continuación de deja un video como realizar una aplicación de en iOS el sist
 
 <p align="center">
  Dar clic para ver el video
+ <br/>
 <a target="_blank" href="https://www.youtube.com/watch?v=jE3rqNWTWDs">
     <img src="https://img.youtube.com/vi/jE3rqNWTWDs/0.jpg" width="300px" />
 </a>
