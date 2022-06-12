@@ -1,7 +1,7 @@
 
 ![Banner](imagenes/banner.png)
 
-# M1: Introducción al desarrollo de apps multiplataforma
+# M1S1: Introducción al desarrollo de apps multiplataforma
 
 > #### **¡Hola, damos inicio al módulo 1!**
 > #### Espero te encuentres muy bien y con mucha motivación para continuar el recorrido del diseño y creación de Apps multiplataforma, en la presente sesión conoceremos los inicios del desarrollo de una App de forma nativa y multiplataforma, no te preocupes entenderás todos estos conceptos muy pronto, así mismo se te ayuda a configurar tu entorno para poder crear Apps ya sea en Windows, Mac o Linux.
