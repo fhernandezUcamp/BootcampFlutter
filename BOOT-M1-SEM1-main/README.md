@@ -41,5 +41,6 @@ En ningún momento se demerita el desarrollo nativo, sino que se debe de tomar e
 
 <p align="center">
 <img style="margin: 0px auto;" src="https://github.com/fhernandezUcamp/BootcampFlutter/blob/main/BOOT-M1-SEM1-main/imagenes/desarrollo-nativo-de-apps.png?raw=true" />
+  Figura 1.- Las plataformas con su propio lenguaje de programación
 </p>
 
