@@ -52,6 +52,6 @@ En ningún momento se demerita el desarrollo nativo, sino que se debe de tomar e
  Hay varias clasificaciones de estos lenguajes como alto nivel y bajo nivel, compilados e interpretados, pero ondearemos más adelante sobre este y otros términos.
 > #### **Continuemos...**
 
-[![VideoAppNativas](https://img.youtube.com/vi/jE3rqNWTWDs/0.jpg)]([https://www.youtube.com/watch?v=jE3rqNWTWDs)
+[![VideoAppNativas](https://img.youtube.com/vi/jE3rqNWTWDs/0.jpg)](https://www.youtube.com/watch?v=jE3rqNWTWDs)
 
 
