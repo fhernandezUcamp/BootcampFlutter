@@ -84,5 +84,5 @@ Actualmente, algunos de los frameworks de desarrollo móvil multiplataforma más
 <p align="center">
 <img style="margin: 0px auto;" src="https://github.com/fhernandezUcamp/BootcampFlutter/blob/main/BOOT-M1-SEM1-main/imagenes/Clasificacion%20de%20desarrollo%20movil.png?raw=true"  width="100%" />
 <br/>
-  Figura 1.- Las plataformas con su propio lenguaje de programación
+  Figura 2.- Desarrollo multiplataforma actualmente
 </p>
