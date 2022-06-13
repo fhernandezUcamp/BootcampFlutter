@@ -84,7 +84,7 @@ Actualmente, algunos de los frameworks de desarrollo móvil multiplataforma más
 <p align="center">
 <img style="margin: 0px auto;" src="https://github.com/fhernandezUcamp/BootcampFlutter/blob/main/BOOT-M1-SEM1-main/imagenes/Flutter-el-SDK-de-Google-para-desarrollar-apps-nativas-multiplataforma.png?raw=true"  width="70%" />
 <br/>
-  Figura 2.- Desarrollo multiplataforma actualmente
+  Figura 2.- Desarrollo multiplataforma actualmente en todos los dispositivos
 </p>
 
 A continuación se deja un video resumiendo el contenido expuesto.
