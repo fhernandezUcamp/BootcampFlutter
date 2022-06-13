@@ -10,11 +10,11 @@
 # Objetivo por semana 
 > ### Al término de esta semana el participante, conocerá los términos teóricos sobre el desarrollo de aplicaciones multiplataforma, nos adentraremos en cómo utlizar Flutter como plataforma tecnologica para desarrollo de apps para móviles Android y iOS, y otros dispositivos y el participante configurará su entorno de desarrollo en Flutter.
 
-# ÍNDICE
 
+# ÍNDICE
+https://github.com/fhernandezUcamp/BootcampFlutter/blob/main/BOOT-M1-SEM1-main/README.md#la-actualidad-sobre-el-desarrollo-de-aplicaciones-multiplataforma
 - [El desarrollo de aplicaciones nativas (Móviles,Web, Escritorio)](https://github.com/fhernandezUcamp/BootcampFlutter/blob/main/BOOT-M1-SEM1-main/README.md#el-desarrollo-de-aplicaciones-nativas-m%C3%B3vilesweb-escritorio)
-- [La actualidad sobre el desarrollo de aplicaciones multiplataforma](https://github.com/BootcampFlutter/BOOT-M1-SEM1#etiquetas-y-atributos)
-- [Qué es Flutter y por qué usarlo.](https://github.com/BootcampFlutter/BOOT-M1-SEM1#formato)
+- [La actualidad sobre el desarrollo de aplicaciones multiplataforma](https://github.com/fhernandezUcamp/BootcampFlutter/blob/main/BOOT-M1-SEM1-main/README.md#la-actualidad-sobre-el-desarrollo-de-aplicaciones-multiplataforma)
 - [Herramientas LowCode/NoCode para Flutter](https://github.com/U-Camp/BOOT-M1-SEM1#enlaces)
 - [La configuración del entorno de desarrollo en Windows](https://github.com/BootcampFlutter/BOOT-M1-SEM1#atributos-html)      
 - [La configuración del entorno de desarrollo en MacOS](https://github.com/BootcampFlutter/BOOT-M1-SEM1#im%C3%A1genes-svg)
