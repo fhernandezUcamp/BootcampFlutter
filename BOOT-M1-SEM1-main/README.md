@@ -131,6 +131,14 @@ A continuación algunas de las herramientas LowCode y NoCode
 ![image](https://user-images.githubusercontent.com/92256063/173447058-73c25d8f-7c17-4170-a17b-8fafd8e64389.png)
 
 
+A continuación se deja un video sobre el tema de Flutter herramientas LowCode y NoCode
 
+<p align="center">
+ Dar clic para ver el video
+ <br/>
+<a target="_blank" href="https://www.youtube.com/watch?v=nB_-Dpr_8yc">
+    <img src="https://img.youtube.com/vi/nB_-Dpr_8yc/0.jpg" width="300px" />
+</a>
+</p>
 
 
