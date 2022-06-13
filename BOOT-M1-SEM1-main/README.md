@@ -67,4 +67,8 @@ A continuación de deja un video como realizar una aplicación de en iOS el sist
 
 # La actualidad sobre el desarrollo de aplicaciones multiplataforma
 
+El desarrollo multiplataforma se puede definir como un proceso mediante el cual se desarrolla una aplicación independiente al sistema operativo, ya sea móvil o escritorio con un mismo lenguaje de programación, que esto a su vez facilita su exportación y visualización en cualquier dispositivo de los sistemas operativos citados anteriormente. 
 
+Aunado a lo anterior todo se lleva a cabo con un mismo lenguaje de programación, puede desarrollar Apps multiplataforma que típicamente de manera nativa se ocuparía saber uno a 3 lenguajes de programación.
+
+Algunos expertos como la Universidad Europea cita lo siguiente, "Aunque las aplicaciones nativas tienen un buen rendimiento y un elevado nivel de personalización, el desarrollo de aplicaciones multiplataforma se está imponiendo porque permite ahorrar tiempo, energía y recursos a las empresas, ya que no es necesario programar diferentes apps."
