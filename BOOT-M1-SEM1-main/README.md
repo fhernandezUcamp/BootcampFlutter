@@ -86,3 +86,13 @@ Actualmente, algunos de los frameworks de desarrollo móvil multiplataforma más
 <br/>
   Figura 2.- Desarrollo multiplataforma actualmente
 </p>
+
+A continuación se deja un video resumiendo el contenido expuesto.
+
+<p align="center">
+ Dar clic para ver el video
+ <br/>
+<a target="_blank" href="https://youtu.be/uj_LsHgArEM">
+    <img src="https://img.youtube.com/vi/uj_LsHgArEM/0.jpg" width="300px" />
+</a>
+</p>
