@@ -72,3 +72,11 @@ El desarrollo multiplataforma se puede definir como un proceso mediante el cual 
 Aunado a lo anterior todo se lleva a cabo con un mismo lenguaje de programación, puede desarrollar Apps multiplataforma que típicamente de manera nativa se ocuparía saber uno a 3 lenguajes de programación.
 
 Algunos expertos como la Universidad Europea cita lo siguiente, "Aunque las aplicaciones nativas tienen un buen rendimiento y un elevado nivel de personalización, el desarrollo de aplicaciones multiplataforma se está imponiendo porque permite ahorrar tiempo, energía y recursos a las empresas, ya que no es necesario programar diferentes apps."
+
+El desarrollo móvil multiplataforma es una tendencia que crece año tras año y que permite, a partir de un código común, generar aplicaciones para los sistemas operativos móviles más usados actualmente: Android y iOS.
+
+Esto permite a una empresa, especialmente a las que son relativamente pequeñas, desarrollar su aplicación móvil y publicarla en la tienda de aplicaciones de ambos sistemas operativos sin la necesidad de dos equipos distintos, cada uno especializado en una de las plataformas, reduciendo así los costes. Además, se reduce también el tiempo de desarrollo necesario y se reduce la cantidad de código duplicado, dado que las funciones sólo se programan una vez y funcionan en ambas plataformas.
+
+No obstante, optar por un desarrollo móvil multiplataforma también tiene dos desventajas principales: el rendimiento, el cual en la mayoría de los casos se ve afectado por el uso de componentes no nativos, dado que la comunicación de éstos con los distintos componentes nativos de cada plataforma suele ser inconsistente; y la experiencia de usuario, dado que los componentes de la interfaz no pueden aprovechar el potencial que podrían al no ser componentes nativos de la propia plataforma.
+
+Actualmente, algunos de los frameworks de desarrollo móvil multiplataforma más utilizados son React Native4 y Xamarin5. A este conjunto se ha unido recientemente Flutter6, que soluciona los principales problemas del resto de frameworks de desarrollo móvil multiplataforma y el cual se analizará más adelante.
