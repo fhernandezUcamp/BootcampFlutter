@@ -80,3 +80,9 @@ Esto permite a una empresa, especialmente a las que son relativamente pequeñas,
 No obstante, optar por un desarrollo móvil multiplataforma también tiene dos desventajas principales: el rendimiento, el cual en la mayoría de los casos se ve afectado por el uso de componentes no nativos, dado que la comunicación de éstos con los distintos componentes nativos de cada plataforma suele ser inconsistente; y la experiencia de usuario, dado que los componentes de la interfaz no pueden aprovechar el potencial que podrían al no ser componentes nativos de la propia plataforma.
 
 Actualmente, algunos de los frameworks de desarrollo móvil multiplataforma más utilizados son React Native y Xamarin. A este conjunto se ha unido recientemente Flutter, que soluciona los principales problemas del resto de frameworks de desarrollo móvil multiplataforma y el cual se analizará más adelante.
+
+<p align="center">
+<img style="margin: 0px auto;" src="https://github.com/fhernandezUcamp/BootcampFlutter/blob/main/BOOT-M1-SEM1-main/imagenes/desarrollo-nativo-de-apps.png?raw=true" />
+<br/>
+  Figura 1.- Las plataformas con su propio lenguaje de programación
+</p>
