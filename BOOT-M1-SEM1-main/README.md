@@ -65,6 +65,6 @@ A continuación de deja un video como realizar una aplicación de en iOS el sist
 </a>
 </p>
 
-
+# La actualidad sobre el desarrollo de aplicaciones multiplataforma
 
 
