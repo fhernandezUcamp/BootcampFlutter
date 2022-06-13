@@ -12,7 +12,7 @@
 
 
 # ÍNDICE
-https://github.com/fhernandezUcamp/BootcampFlutter/blob/main/BOOT-M1-SEM1-main/README.md#la-actualidad-sobre-el-desarrollo-de-aplicaciones-multiplataforma
+
 - [El desarrollo de aplicaciones nativas (Móviles,Web, Escritorio)](https://github.com/fhernandezUcamp/BootcampFlutter/blob/main/BOOT-M1-SEM1-main/README.md#el-desarrollo-de-aplicaciones-nativas-m%C3%B3vilesweb-escritorio)
 - [La actualidad sobre el desarrollo de aplicaciones multiplataforma](https://github.com/fhernandezUcamp/BootcampFlutter/blob/main/BOOT-M1-SEM1-main/README.md#la-actualidad-sobre-el-desarrollo-de-aplicaciones-multiplataforma)
 - [Herramientas LowCode/NoCode para Flutter](https://github.com/U-Camp/BOOT-M1-SEM1#enlaces)
