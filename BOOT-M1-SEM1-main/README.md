@@ -104,6 +104,10 @@ En la actualidad muchas personas quieren crear Apps con o sin conocimientos de p
  
 Aunado a lo anterior, al desarrollar aplicaciones usando métodos y modelos visuales es más rápido que desarrollar usando código con el fin  de que sean desarrolladas con capacidades de modelado visual, las plataformas LowCode utilizan componentes integrados para representar cualquier información en una forma que sea legible para cualquier persona, desde usuarios comerciales habituales sin conocimientos técnicos hasta desarrolladores profesionales y algunas de estas herramientas pueden exportar el código para seguir trabajándolo, ahora las plataformas NoCode son las que directamente arrastras los elementos visuales y no tienes como resultado el código si no una App que tiene en medida de lo posible lo necesario para ser publicada.
 
-![image](https://user-images.githubusercontent.com/92256063/173446169-591ca414-1b86-48e1-b11a-741eeda52359.png)
+
+<p align="center">
+<img style="margin: 0px auto;" src="https://user-images.githubusercontent.com/92256063/173446169-591ca414-1b86-48e1-b11a-741eeda52359.png"  />
+<br/>
+</p>
 
 En Flutter existen varias herramientas  tanto online como para instalar de manera local para poder crear aplicaciones en dicha tecnología, lo que si es cierto es que dependiendo lo que ofrezcan garantizara el éxito de la misma.
