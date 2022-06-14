@@ -169,4 +169,6 @@ A continuación se deja un video sobre el tema de Flutter herramientas LowCode y
 </a>
 </p>
 
-
+# Los requisitos previos para crear aplicaciones con Flutter
+## Requisitos técnicos
+## Requisitos de conocimiento
