@@ -170,5 +170,9 @@ A continuación se deja un video sobre el tema de Flutter herramientas LowCode y
 </p>
 
 # Los requisitos previos para crear aplicaciones con Flutter
+
+Antes de comenzar para usar una tecnología en nuestro caso nos referimos a Flutter, podemos dividirlos en dos grandes categorías, los requisitos técnicos y los de conocimiento para que el participante sepa y tenga desde un comienzo el contexto adecuado de lo que se podría demandar para poder desarrollar, por ende a continuación se describen los requisitos que se ocupan.
+
 ## Requisitos técnicos
+
 ## Requisitos de conocimiento
