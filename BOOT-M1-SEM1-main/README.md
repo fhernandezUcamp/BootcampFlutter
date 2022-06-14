@@ -114,7 +114,15 @@ A continuación se deja una infografía para comprender mejor como está estruct
 
 ![image](https://user-images.githubusercontent.com/92256063/173470684-4f41eea9-4be4-4ceb-b47d-e8044a26b045.png)
 
+A continuación se deja un video resumiendo el contenido expuesto.
 
+<p align="center">
+ Dar clic para ver el video
+ <br/>
+<a target="_blank" href="https://www.youtube.com/watch?v=YgfCzsElwWc">
+    <img src="https://img.youtube.com/vi/YgfCzsElwWc/0.jpg" width="300px" />
+</a>
+</p>
 
 # Herramientas LowCode/NoCode para Flutter
 
