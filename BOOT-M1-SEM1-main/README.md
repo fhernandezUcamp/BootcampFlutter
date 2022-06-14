@@ -17,7 +17,7 @@
 - [La actualidad sobre el desarrollo de aplicaciones multiplataforma](https://github.com/fhernandezUcamp/BootcampFlutter/blob/main/BOOT-M1-SEM1-main/README.md#la-actualidad-sobre-el-desarrollo-de-aplicaciones-multiplataforma)
 - [Qué es Flutter y por qué usarlo](https://github.com/fhernandezUcamp/BootcampFlutter/blob/main/BOOT-M1-SEM1-main/README.md#qu%C3%A9-es-flutter-y-por-qu%C3%A9-usarlo)
 - [Herramientas LowCode/NoCode para Flutter](https://github.com/fhernandezUcamp/BootcampFlutter/blob/main/BOOT-M1-SEM1-main/README.md#herramientas-lowcodenocode-para-flutter)
-- [Los requisitos previos para crear aplicaciones con Flutter](https://github.com/BootcampFlutter/BOOT-M1-SEM1#atributos-html)
+- [Los requisitos previos para crear aplicaciones con Flutter](https://github.com/fhernandezUcamp/BootcampFlutter/blob/main/BOOT-M1-SEM1-main/README.md#los-requisitos-previos-para-crear-aplicaciones-con-flutter)
    - [Requisitos técnicos]()
    - [Requisitos de conocimiento]()
 - [La configuración del entorno de desarrollo en Windows](https://github.com/BootcampFlutter/BOOT-M1-SEM1#atributos-html)      
