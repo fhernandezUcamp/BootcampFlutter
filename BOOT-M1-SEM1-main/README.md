@@ -110,6 +110,7 @@ Mencionando algunas de las principales ventajas de utilizar Flutter, tenemos las
 
 En el desarrollo de aplicaciones en Flutter toda vista es un widget y la conformación de estos pueden crear una vistas atractivas. Flutter utiliza un motor gráfico, llamado Skia, que renderiza en 2D los elementos gráficos. Flutter está escrito en C, C++ y, mayormente, en Dart. De forma resumida, la capa del motor está escrito en C++ y la de los Widgets en Dart.
 
+A continuación se deja una infografía para comprender mejor como está estructurado el SDK de Flutter y sus tecnologías.
 
 ![image](https://user-images.githubusercontent.com/92256063/173470684-4f41eea9-4be4-4ceb-b47d-e8044a26b045.png)
 
