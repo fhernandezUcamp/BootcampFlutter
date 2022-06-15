@@ -177,20 +177,20 @@ Antes de comenzar para usar una tecnología en nuestro caso nos referimos a Flut
 
 Comenzando con los requisitos minimos  serian los siguientes:
 
-•        PC con sistema operativo Linux (Ubuntu), Windows 10 o superior, MacOS X.
-•        Mínimo 4GB a 6GB de memoria RAM. 
-•        Procesador equivalente a i3 ó superior.
-•        Smartphone Android o iOS para pruebas. 
-•        Espacio en disco duro de  30 Gigabytes libres 
-•        Tener instalado los SDK de Dart y Flutter.
+- PC con sistema operativo Linux (Ubuntu), Windows 10 o superior, MacOS X.
+- Mínimo 4GB a 6GB de memoria RAM. 
+- Procesador equivalente a i3 ó superior.
+- Smartphone Android o iOS para pruebas. 
+- Espacio en disco duro de  30 Gigabytes libres 
+- Tener instalado los SDK de Dart y Flutter.
 
 ## Requisitos de conocimiento
 
 Los requisitos ideales  serian los siguientes:
 
-•        PC con sistema operativo Linux (Ubuntu), Windows 10 o superior, MacOS X.
-•        Mínimo 12GB a 16GB de memoria RAM. 
-•        Procesador equivalente a i7 ó superior.
-•        Smartphone Android o iOS para pruebas. 
-•.       Espacio en disco duro de  30 Gigabytes libres 
-•        Tener instalado los SDK de Dart y Flutter.
+- PC con sistema operativo Linux (Ubuntu), Windows 10 o superior, MacOS X.
+- Mínimo 12GB a 16GB de memoria RAM. 
+- Procesador equivalente a i7 ó superior.
+- Smartphone Android o iOS para pruebas. 
+- Espacio en disco duro de  30 Gigabytes libres 
+- Tener instalado los SDK de Dart y Flutter.
