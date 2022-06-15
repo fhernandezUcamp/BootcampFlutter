@@ -184,8 +184,6 @@ Comenzando con los requisitos minimos  serian los siguientes:
 - Espacio en disco duro de  30 Gigabytes libres 
 - Tener instalado los SDK de Dart y Flutter.
 
-## Requisitos de conocimiento
-
 Los requisitos ideales  serian los siguientes:
 
 - PC con sistema operativo Linux (Ubuntu), Windows 10 o superior, MacOS X.
@@ -194,3 +192,10 @@ Los requisitos ideales  serian los siguientes:
 - Smartphone Android o iOS para pruebas. 
 - Espacio en disco duro de  30 Gigabytes libres 
 - Tener instalado los SDK de Dart y Flutter.
+
+## Requisitos de conocimiento
+
+Para aprender Flutter desde cero realmente no necesitas conocer su sintaxis, sin embargo te serviría mucho haber tomado un curso de lógica y de estructura de datos para entender mejor como organizar los Widgets. Hago prioridad en que se necesita desarrollar tu lógica.
+
+Algo más que podría ser útil es entender como funciona la programación orientada a objetos ya que Flutter trabaja 100% orientado a objetos, aunque en Flutter se le llama widgets.
+
