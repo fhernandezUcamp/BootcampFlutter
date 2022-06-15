@@ -194,7 +194,7 @@ Los requisitos ideales  serian los siguientes:
 - Mínimo 12GB a 16GB de memoria RAM. 
 - Procesador equivalente a i7 ó superior.
 - Smartphone Android o iOS para pruebas. 
-- Espacio en disco duro de  30 Gigabytes libres 
+- Espacio en disco duro de  50 Gigabytes libres 
 - Tener instalado los SDK de Dart y Flutter.
 
 ## Requisitos de conocimiento
