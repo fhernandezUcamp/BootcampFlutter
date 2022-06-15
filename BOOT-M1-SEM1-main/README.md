@@ -114,6 +114,8 @@ En el desarrollo de aplicaciones en Flutter toda vista es un widget y la conform
 
 ![image](https://user-images.githubusercontent.com/92256063/173715196-679a46fa-f572-4c0f-8879-5a243a8bcf62.png)
 
+
+
 A continuación se deja una infografía para comprender mejor como está estructurado el SDK de Flutter y sus tecnologías.
 
 ![image](https://user-images.githubusercontent.com/92256063/173470684-4f41eea9-4be4-4ceb-b47d-e8044a26b045.png)
